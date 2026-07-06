@@ -1,10 +1,12 @@
 # 🚀 LLM Benchmarks & Investment Efficiency (2020-2026) 
 ### *Exploratory Data Analysis (EDA), Advanced Data Cleaning & Pareto-Efficiency Mapping*
 
-![Python](https://shields.io)
-![Data Science](https://shields.io)
-![Interactive Visualization](https://shields.io)
-![Security](https://shields.io)
+<p id="badges">
+  <img src="https://shields.io" alt="Python Version">
+  <img src="https://shields.io" alt="Data Science">
+  <img src="https://shields.io" alt="Visualization">
+  <img src="https://shields.io" alt="Security">
+</p>
 
 ---
 
